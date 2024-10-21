@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-social-links-profile-VEBn-NY5dZ)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nelson-j-montesinos.github.io/Social-Links-Profile/)
 
 ## My process
 
